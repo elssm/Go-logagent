@@ -9,6 +9,7 @@
 ```go
 etcd
 ```
+![image](https://github.com/elssm/Go-logagent/blob/main/4.png)
 
 在etcd目录下执行
 
