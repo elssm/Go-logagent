@@ -26,3 +26,6 @@ go run main.go
 go run main.go
 ```
 
+![image](https://github.com/elssm/Go-logagent/blob/main/1.png)
+![image](https://github.com/elssm/Go-logagent/blob/main/2.png)
+![image](https://github.com/elssm/Go-logagent/blob/main/3.png)
