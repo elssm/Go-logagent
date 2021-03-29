@@ -1,6 +1,8 @@
 ### 用Go语言实现的日志收集
 
 #### 基于etcd+kafka+sarama实现
+大致流程如下：
+![image](https://github.com/elssm/Go-logagent/blob/main/5.png)
 
 利用etcd来管理日志文件的path和topic
 
